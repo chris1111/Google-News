@@ -1,4 +1,5 @@
 # Welcome to Google News App for macOS.
+Sign in to keep your new Google News App and get news based on your interests
 
 Download Release ➣ [Google News](https://github.com/chris1111/Google-News/releases/tag/V1)
 
