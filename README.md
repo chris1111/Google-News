@@ -13,5 +13,4 @@ cd $HOME/Google-News
 make
 ```
 
-![Screenshot 2023-03-10 at 2 40 34 PM]()
-
+![Screenshot 2023-03-15 at 9 49 02 PM](https://user-images.githubusercontent.com/6248794/225488945-c49be6ea-a144-4f40-8c5b-97d63324661c.png)
